@@ -25,4 +25,4 @@ Para configurar o projeto em sua máquina local, siga as instruções abaixo:
 
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone [https://github.com/seu-usuario/meteora-loja-virtual.git](https://github.com/jhonyrcs/projeto-meteora.git)
+   git clone https://github.com/jhonyrcs/projeto-meteora
